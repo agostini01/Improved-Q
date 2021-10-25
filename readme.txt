@@ -1,4 +1,10 @@
-Hello!
+# Improved-Q
+
+This is an updated version of Better-Q, originaly created by Michael Lucey. 
+This version supports factorio >=1.1
+
+
+### Michael Lucey Original readme
 
 Better-Q is a simple Mod that layers additional functionality over the in-game Pipette('Q') function. 
 Hopefully you will find these additional functions to not only be helpful, but also intuitive. 
@@ -18,3 +24,10 @@ Features added to Pipette tool:
 This is my first Mod for Factorio/working with Lua. If there are any issues, or simply better practices, please let me know. 
 
 Thank you.
+
+## Changelog
+
+### 1.1
+
+- Add support for factorio base >=1
+- Change sound played when item is not in the inventory.
